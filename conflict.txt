@@ -1,1 +1,2 @@
-line changed by A
+
+final merged line
